@@ -58,6 +58,21 @@ Saints example, where the email on file belongs to a different school).
 - **Route - Chain/Out of Area** — Regional/national chain or franchise (needs corporate
   approval → belongs in the Corporate Outreach table), **or** drive time clearly over ~60 min.
 
+## Hard disqualifiers (learned from Lauren's real experience)
+
+These push a school to **C - Lower Fit** (or out entirely) and get a `⚠ DISQUALIFIER` note at
+the top of the Call Angle so it never wastes a call:
+
+- **Doesn't accept outside vendors.** Some Montessori and faith schools state they don't bring in
+  outside enrichment providers at all. That's an automatic no — flag it.
+- **Head Start / federally-funded programs.** No parent-pay model and no single-site purchasing
+  authority, so MMS's monthly-enrollment model doesn't fit.
+- **Permanently closed** or under active regulatory/fraud investigation (verify status first).
+
+**Note on "visits":** a visit means a real conversation with a decision-maker — never a
+drop-off. Dropping off materials has never produced a sale, so the system never routes Lauren
+somewhere just to leave flyers.
+
 ---
 
 ## How a batch gets enriched
@@ -86,6 +101,20 @@ few months as stale — re-run it (the **Researched On** date is there to spot t
 should always be read together with the date.
 
 ---
+
+## The Daily 10 (what the enrichment feeds)
+
+The point of enrichment is a **Daily 10** — ten schools to work each weekday, by email or an
+in-person conversation. It's just a live query over the enriched pool:
+
+- Stage = **New Lead** (not yet worked), Research Fit = **A** or **B**, not Archived, no
+  disqualifier. Sorted A-before-B, then confidence High→Low. Take the top 10.
+- As Lauren moves a school out of "New Lead" (once she's contacted it), it drops off
+  automatically — so the list refreshes itself and never repeats what's already in motion.
+- Delivery: a weekday-morning email brief (scheduled routine), and/or a saved "Daily 10"
+  grid view in Airtable with the same filter/sort.
+- When fewer than ~15 A/B New Leads remain, enrich the next batch (see "How a batch gets
+  enriched" above) to refill the runway.
 
 ## Deliberately out of scope for Build 1
 

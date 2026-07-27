@@ -27,7 +27,8 @@ selling itself.
 
 | Build | What it does | Status |
 |-------|--------------|--------|
-| **1. Lead Enrichment** | Auto-researches in-range schools and fills the CRM with the facts that predict a *yes*, so the "who to call next" list finally has real signal. | **In progress (pilot)** |
+| **1. Lead Enrichment** | Auto-researches in-range schools and fills the CRM with the facts that predict a *yes*, so the "who to call next" list finally has real signal. | **Live — 75 schools enriched** |
+| **1b. Daily 10** | Ten schools to work each weekday (email or visit), drawn from the enriched pool, self-refreshing as leads are worked. | **Live** |
 | 2. Follow-up safety net | Makes sure every active prospect has a next action + date, and nothing goes quiet by accident. | Planned |
 | 3. Won/lost evidence & positioning | Mines Gmail/Docs/proposals to learn why schools really buy, and sharpens the offer. | Planned |
 | 4. Marketing feedback loop | Turns sales/prospect learnings into marketing and content direction. | Planned |
